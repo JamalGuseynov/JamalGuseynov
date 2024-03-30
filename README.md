@@ -106,7 +106,7 @@
 Do you need my help? Have a suggestion for me? Send a mail to linkedin or use links below:  
   
 
-<a href="https://linkedin.com/in/linkedin.com/in/jamal-guseynov-61b924297" target="_blank">
+<a href="linkedin.com/in/jamal-guseynov-61b924297" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
