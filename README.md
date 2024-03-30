@@ -50,10 +50,10 @@
 <details>
   <summary>Еще</summary>
   <p>
-CyberSecurity
-Web Security
-Penetrating
-Comp TIA Penetration Security +</p>
+Web app pentesting
+Network pentesting
+OS pentesting
+  </p>
 </details>
   
 
