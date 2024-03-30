@@ -103,7 +103,7 @@
 
 
 ## Connect with me  
-Do you need my help? Have a suggestion for me? Send a mail to linkedin or use links below:  
+Do you need my help? Have a suggestion for me? Send a mail to linkedin or use links below:  Jamal Guseynov
   
 
 <a href="linkedin.com/in/jamal-guseynov-61b924297" target="_blank">
