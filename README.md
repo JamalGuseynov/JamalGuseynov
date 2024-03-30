@@ -4,7 +4,7 @@
 ## **<div align="center">I'm Jamal Guseynov 🦸‍♂️</div>**  
   
 
-### <div align="center">👨‍💻 FullStack Web-developer | Software engineer</div>  
+### <div align="center">👨‍💻🛡 FullStack Web-developer | Software engineer | Cyber Security | Penetration Tester</div>  
   
 
 <div align="center">💡 Bringing UI/UX ideas to life
