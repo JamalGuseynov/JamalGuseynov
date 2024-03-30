@@ -48,7 +48,7 @@
 🐣  Making code reviews & teaching  
 
 <details>
-  <summary>Еще</summary>
+  <summary>🔽 More</summary>
   <p>
 Web app pentesting
 Network pentesting
