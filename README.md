@@ -46,6 +46,15 @@
 📒  Planing & decomposing
 
 🐣  Making code reviews & teaching  
+
+<details>
+  <summary>Еще</summary>
+  <p>
+CyberSecurity
+Web Security
+Penetrating
+Comp TIA Penetration Security +</p>
+</details>
   
 
 <br/>  
