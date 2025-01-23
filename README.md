@@ -1,60 +1,59 @@
-# <div align="center">Hi there! 👋</div>  
+<div align="center">Hi there! 👋</div>  
   
 
 ## **<div align="center">I'm Jamal Guseynov 🦸‍♂️</div>**  
   
 
-### <div align="center">👨‍💻🛡 FullStack Software engineer | Cyber Security – Penetration Tester</div>  
+### <div align="center">👨‍💻🛡 FullStack Software Engineer | Cyber Security – Penetration Tester</div>  
   
 
-<div align="center">💡 Bringing UI/UX ideas to life
-🛡 Cyber Security 
-🤓 Love to code
-🌱 Constantly learning
-☕️ Coffee lover
-🏃‍♂️ Sports lover
+<div align="center">💡 Bringing Back end and UI/UX ideas to life  
+🛡 Cyber Security  
+🤓 Love to code  
+🌱 Constantly learning  
+☕️ Coffee lover  
+🏃‍♂️ Sports lover  
 📖 Reading lover</div>  
   
 
 
-
 ### Skills  
-👾  Crafting applications, multi-page sites, landing pages & admin panels
+👾  Crafting applications, multi-page sites, landing pages & admin panels  
 
-🛠  Favorite stack is JavaScript + React
+🛠  Favorite stack is JavaScript + React  
 
-✅  Creating reliable & well-functioning interfaces
+✅  Creating reliable & well-functioning interfaces  
 
-🏎  Writing modern & productive code
+🏎  Writing modern & productive code  
 
-🎨  Creating semantic, cross-browser & pixel-perfect markup
+🎨  Creating semantic, cross-browser & pixel-perfect markup  
 
-🧠  Choosing a simple way to solve the problem
+🧠  Choosing a simple way to solve the problem  
 
-🧩  Using a lot of patterns & techniques
+🧩  Using a lot of patterns & techniques  
 
-🧱  Building a modular & optimal project architecture
+🧱  Building a modular & optimal project architecture  
 
-🔧  Using modern frameworks, libraries, and tools
+🔧  Using modern frameworks, libraries, and tools  
 
-📱  Implementing responsive interface & animations
+📱  Implementing responsive interface & animations  
 
-🧹  Following a consistent code style
+🧹  Following a consistent code style  
 
-🔬  Refactoring, optimizing & testing
+🔬  Refactoring, optimizing & testing  
 
-📒  Planing & decomposing
+📒  Planning & decomposing  
 
 🐣  Making code reviews & teaching  
 
 <details>
   <summary>🔽 More</summary>
   <p>
-Web app pentesting
-Network pentesting
-OS pentesting
+Web app pentesting  
+Network pentesting  
+OS pentesting  
   </p>
-</details>
+</details>  
   
 
 <br/>  
@@ -85,13 +84,13 @@ OS pentesting
 
 ### Backend  
 <div align="center">  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
@@ -110,37 +109,6 @@ OS pentesting
 
 <br/>  
 
-
-## Connect with me  
-Do you need my help? Have a suggestion for me? Send a mail to linkedin or use links below:  Jamal Guseynov
-  
-
-<a href="linkedin.com/in/jamal-guseynov-61b924297" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=JamalGuseynov&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
